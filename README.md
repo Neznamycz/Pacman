@@ -1,4 +1,4 @@
-# Pacman
+# Pac-Man
 Pacman hra v pythonu jako projekt na semestriální projekt do programování. Jedná se historickou klasiku, kterou jsem přetvořil celou do pythonu! Není to tak lehké jak se zdá, tak se neboj a pojď si to vyzkoušet!
 
 ## Požadavky
